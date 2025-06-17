@@ -14,7 +14,8 @@ const books = [
   {
     title: "Este dolor no es mio",
     author: "Mark Wolynn",
-    pdf: "https://drive.google.com/file/d/1kbEsXomGLvtdD28MFL4MkWa4OYcoNA4g/view?usp=drive_link",
+    pdf: "https://drive.google.com/uc?export=download&id=1kbEsXomGLvtdD28MFL4MkWa4OYcoNA4g
+",
     audio: "N/A"
   }
   ];

@@ -10,5 +10,11 @@ const books = [
     author: "Homero",
     pdf: "https://www.gutenberg.org/ebooks/1727.pdf.utf-8",
     audio: "https://librivox.org/the-odyssey-by-homer/"
+  },
+  {
+    title: "Este dolor no es mio",
+    author: "Mark Wolynn",
+    pdf: "https://drive.google.com/file/d/1kbEsXomGLvtdD28MFL4MkWa4OYcoNA4g/view?usp=drive_link",
+    audio: "N/A"
   }
-];
+  ];

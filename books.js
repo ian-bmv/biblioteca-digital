@@ -2,8 +2,8 @@ const books = [
   {
     title: "Don Quijote de la Mancha",
     author: "Miguel de Cervantes",
-    pdf: "https://www.gutenberg.org/ebooks/2000.pdf.utf-8",
-    audio: "https://librivox.org/don-quixote-by-miguel-de-cervantes/"
+    pdf: "https://www.suneo.mx/literatura/subidas/Miguel%20de%20Cervantes%20El%20Ingenioso%20Hidalgo%20Don%20Quijote%20de%20la%20Mancha.pdf",
+    audio: "N/A"
   },
   {
     title: "La Odisea",

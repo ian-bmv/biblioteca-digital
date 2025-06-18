@@ -8,7 +8,7 @@ const books = [
   {
     title: "La Odisea",
     author: "Homero",
-    pdf: "https://www.gutenberg.org/ebooks/1727.pdf.utf-8",
+    pdf: "https://drive.google.com/file/d/0B5Fl4bz-O9bgNzdmZjRlNTEtYmU3MS00NGUzLTg1NDctZjBkOTlkYzFhNmM5/view?resourcekey=0--onU7DXNz_vSy-uZ3-V5PQ",
     audio: "https://librivox.org/the-odyssey-by-homer/"
   },
   {
@@ -17,4 +17,9 @@ const books = [
     pdf: "https://drive.google.com/uc?export=download&id=1kbEsXomGLvtdD28MFL4MkWa4OYcoNA4g",
     audio: "N/A"
   },
+  {
+    title: "Agua y Jabon",
+    author: "Marta D. Riezu",
+    pdf: "https://drive.google.com/file/d/17lyEaU5XdbTZjC9pDrkmOKKo0A6ONaRz/view?usp=drive_link"
+  }
   ];

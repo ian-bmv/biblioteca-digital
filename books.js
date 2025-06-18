@@ -91,5 +91,55 @@ const books = [
     tittle: "Encuentra tu persona vitamina",
     author: "Marian rojas",
     pdf: "https://drive.google.com/file/d/1oI3r-4oPAQnIkBmKwa6XUxlUOMNqmkCF/view?usp=drive_link"
+  },
+  {
+    tittle: "(AUDIO-LIBRO) Sapiens. De animales a dioses",
+    author: "Yuval Noah",
+    audio: "https://drive.google.com/file/d/1BdJqXE5K-5UbWjluhZY1ouLO9D9KSATW/view?usp=drive_link"
+  },
+  {
+    tittle: "(AUDIO-LIBRO) Habitos Atomicos",
+    author: "James Clear",
+    audio: "https://drive.google.com/file/d/1NjkiCMBRjyQEsd2E5ml0hgO2wpK4-D1w/view?usp=drive_link"
+  },
+  {
+    tittle: "(AUDIO-LIBRO) El sutil arte de que te importe un carajo",
+    author: "Mark Manson",
+    audio: "https://drive.google.com/file/d/17-FXxmwHOt2A9O2wAKNdg4P91zcA7pcr/view?usp=drive_link"
+  },
+  {
+    tittle: "(AUDIO-LIBRO) El alquimista",
+    author: "Paulo Coelho",
+    audio: "https://drive.google.com/file/d/1SSzRXyPq9Y7fsUYT7P6gWxRmaBPNrNvC/view?usp=drive_link"
+  },
+  {
+    tittle: "(AUDIO-LIBRO) Piense y hagase rico",
+    author: "Napoleon Hill",
+    audio: "https://drive.google.com/file/d/1DPqNIv_r099l22KaO-ycdlBhRDE7Zzgj/view?usp=drive_link"
+  },
+  {
+    tittle: "(AUDIO-LIBRO) Tus zonas erroneas",
+    author: "Wayne",
+    audio: "https://drive.google.com/file/d/1ntvaNgwQxuktBROnxjqyS8BboM4zkCXY/view?usp=drive_link"
+  },
+  {
+    tittle: "(AUDIO-LIBRO) El club de las 5 de la mañana",
+    author: "Robin Sharma",
+    audio: "https://drive.google.com/file/d/19-1DyUITpcJ5vyHzRd7iNiipG14U2ybj/view?usp=drive_link"
+  },
+  {
+    tittle:  "(AUDIO-LIBRO) El hombre en busca del sentido",
+    author: "Viktor Frank",
+    audio: "https://drive.google.com/file/d/1rvLLq_koPzOqFU7N3FFyR_MLbh8vFIrc/view?usp=drive_link"
+  },
+  {
+    tittle: "(AUDIO-LIBRO) Pequeño cerdo capitalista",
+    author: "Sofia Maciasl",
+    audio: "https://drive.google.com/file/d/13-AbYb5boLXPKeP2onMM0DCI1OrtCx50/view?usp=drive_link"
+  },
+  {
+    tittle: "(AUDIO-LIBRO) Como ganar amigos e influir",
+    author: "Dale Carnegie",
+    audio: "https://drive.google.com/file/d/1hP9UPdqi-mTtns0bgCl_97X1kuhcjecY/view?usp=drive_link"
   }
   ];

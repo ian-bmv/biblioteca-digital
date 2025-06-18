@@ -12,134 +12,159 @@ const books = [
     audio: "https://librivox.org/the-odyssey-by-homer/"
   },
   {
-    title: "Este dolor no es mio",
+    title: "Este dolor no es mío",
     author: "Mark Wolynn",
     pdf: "https://drive.google.com/uc?export=download&id=1kbEsXomGLvtdD28MFL4MkWa4OYcoNA4g",
     audio: "N/A"
   },
   {
-    title: "Agua y Jabon",
+    title: "Agua y Jabón",
     author: "Marta D. Riezu",
-    pdf: "https://drive.google.com/file/d/17lyEaU5XdbTZjC9pDrkmOKKo0A6ONaRz/view?usp=drive_link"
+    pdf: "https://drive.google.com/file/d/17lyEaU5XdbTZjC9pDrkmOKKo0A6ONaRz/view?usp=drive_link",
+    audio: "N/A"
   },
   {
     title: "El Principito",
     author: "Antoine de Saint-Exupéry",
-    pdf: "https://drive.google.com/file/d/1_D7jANQuhwbr9KdSFwh0Yy7d_IwljXbL/preview"
+    pdf: "https://drive.google.com/file/d/1_D7jANQuhwbr9KdSFwh0Yy7d_IwljXbL/preview",
+    audio: "N/A"
   },
   {
-    title: "Ahora te Toca ser Feliz",
-    author: "Curro Carnete",
-    pdf: "https://drive.google.com/file/d/1ZokRqEu6hZYFcnAX4F9CocCeAB1bGV03/view?usp=drive_link"
+    title: "Ahora te toca ser feliz",
+    author: "Curro Cañete",
+    pdf: "https://drive.google.com/file/d/1ZokRqEu6hZYFcnAX4F9CocCeAB1bGV03/view?usp=drive_link",
+    audio: "N/A"
   },
   {
-    title: "Si lo Crees, lo Creas",
+    title: "Si lo crees, lo creas",
     author: "Brian Tracy",
-    pdf: "https://drive.google.com/file/d/1CDhe5bKGI3fMcdTj95qJHZRNmqrZOSwU/view?usp=drive_link"
+    pdf: "https://drive.google.com/file/d/1CDhe5bKGI3fMcdTj95qJHZRNmqrZOSwU/view?usp=drive_link",
+    audio: "N/A"
   },
   {
     title: "Donde tus sueños te lleven",
     author: "Javier Iriondo Narvaiza",
-    pdf: "https://drive.google.com/file/d/1rIzVaRSa8mdwon-MTfhjEc9-7LQrrAWS/view?usp=drive_link"
+    pdf: "https://drive.google.com/file/d/1rIzVaRSa8mdwon-MTfhjEc9-7LQrrAWS/view?usp=drive_link",
+    audio: "N/A"
   },
   {
-    title: "El monje que vendio su ferrari",
-    author: "Sharma, Robin S.",
-    pdf: "https://drive.google.com/file/d/1mGXHH_EpvhEmUcryeCxHo45ePlaNDcKN/view?usp=drive_link"
+    title: "El monje que vendió su Ferrari",
+    author: "Robin S. Sharma",
+    pdf: "https://drive.google.com/file/d/1mGXHH_EpvhEmUcryeCxHo45ePlaNDcKN/view?usp=drive_link",
+    audio: "N/A"
   },
   {
     title: "El peligro de estar cuerda",
     author: "Rosa Montero",
-    pdf: "https://drive.google.com/file/d/1vBVtQuBI5MoPIquekR3Vo4qSqmOWIlFG/view?usp=drive_link"
+    pdf: "https://drive.google.com/file/d/1vBVtQuBI5MoPIquekR3Vo4qSqmOWIlFG/view?usp=drive_link",
+    audio: "N/A"
   },
   {
-    title: "El poder de confiaar en ti",
-    author: "Curro Carrete",
-    pdf: "https://drive.google.com/file/d/1Y9baljg4RNrJ-tPk09pxWvZd2eUbm_JE/view?usp=drive_link"
+    title: "El poder de confiar en ti",
+    author: "Curro Cañete",
+    pdf: "https://drive.google.com/file/d/1Y9baljg4RNrJ-tPk09pxWvZd2eUbm_JE/view?usp=drive_link",
+    audio: "N/A"
   },
   {
     title: "El poder de las palabras",
     author: "Mariano Sigman",
-    pdf: "https://drive.google.com/file/d/1oOtG_eEVcDGJhR4GuYI5DIPlc5g9aUa1/view?usp=drive_link"
+    pdf: "https://drive.google.com/file/d/1oOtG_eEVcDGJhR4GuYI5DIPlc5g9aUa1/view?usp=drive_link",
+    audio: "N/A"
   },
   {
     title: "Respira",
-    author: "James nestor",
-    pdf: "https://drive.google.com/file/d/14aJYsgAvQypqOoiZkzzKDLllh2HToT8m/view?usp=drive_link"
+    author: "James Nestor",
+    pdf: "https://drive.google.com/file/d/14aJYsgAvQypqOoiZkzzKDLllh2HToT8m/view?usp=drive_link",
+    audio: "N/A"
   },
   {
-    title: "La vida te esta espeando",
+    title: "La vida te está esperando",
     author: "Javier Iriondo",
-    pdf: "https://drive.google.com/file/d/1KU9CLty_DClSQAi--1zgpkOGeHc9BLNS/view?usp=drive_link"
+    pdf: "https://drive.google.com/file/d/1KU9CLty_DClSQAi--1zgpkOGeHc9BLNS/view?usp=drive_link",
+    audio: "N/A"
   },
   {
     title: "Limpieza, orden y felicidad",
-    author: "Bego la Ordenatriz",
-    pdf: "https://drive.google.com/file/d/1DDG5P9S4rT4ZYOOSDmBvbNgwHXPQYC1p/view?usp=drive_link"
+    author: "Bego La Ordenatriz",
+    pdf: "https://drive.google.com/file/d/1DDG5P9S4rT4ZYOOSDmBvbNgwHXPQYC1p/view?usp=drive_link",
+    audio: "N/A"
   },
   {
-    tittle: "Lo bueno de tener un mal dia",
-    author: "Anabel Gonzales",
-    pdf: "https://drive.google.com/file/d/1rosMOgVQe3qd1SWI9qrkj9XDF7GB_I4P/view?usp=drive_link"
+    title: "Lo bueno de tener un mal día",
+    author: "Anabel González",
+    pdf: "https://drive.google.com/file/d/1rosMOgVQe3qd1SWI9qrkj9XDF7GB_I4P/view?usp=drive_link",
+    audio: "N/A"
   },
   {
-    title: "Como hacer que te pasen cosas buenas",
+    title: "Cómo hacer que te pasen cosas buenas",
     author: "Marian Rojas",
-    pdf: "https://drive.google.com/file/d/1r5RgwcFYDzuYnOdphX-NqOJ32FiM6orA/view?usp=drive_link"
+    pdf: "https://drive.google.com/file/d/1r5RgwcFYDzuYnOdphX-NqOJ32FiM6orA/view?usp=drive_link",
+    audio: "N/A"
   },
   {
     title: "Encuentra tu persona vitamina",
-    author: "Marian rojas",
-    pdf: "https://drive.google.com/file/d/1oI3r-4oPAQnIkBmKwa6XUxlUOMNqmkCF/view?usp=drive_link"
+    author: "Marian Rojas",
+    pdf: "https://drive.google.com/file/d/1oI3r-4oPAQnIkBmKwa6XUxlUOMNqmkCF/view?usp=drive_link",
+    audio: "N/A"
   },
   {
-    title: "(AUDIO-LIBRO) Sapiens. De animales a dioses",
-    author: "Yuval Noah",
+    title: "(Audio-libro) Sapiens. De animales a dioses",
+    author: "Yuval Noah Harari",
+    pdf: "N/A",
     audio: "https://drive.google.com/file/d/1BdJqXE5K-5UbWjluhZY1ouLO9D9KSATW/view?usp=drive_link"
   },
   {
-    title: "(AUDIO-LIBRO) Habitos Atomicos",
+    title: "(Audio-libro) Hábitos Atómicos",
     author: "James Clear",
+    pdf: "N/A",
     audio: "https://drive.google.com/file/d/1NjkiCMBRjyQEsd2E5ml0hgO2wpK4-D1w/view?usp=drive_link"
   },
   {
-    title: "(AUDIO-LIBRO) El sutil arte de que te importe un carajo",
+    title: "(Audio-libro) El sutil arte de que te importe un carajo",
     author: "Mark Manson",
+    pdf: "N/A",
     audio: "https://drive.google.com/file/d/17-FXxmwHOt2A9O2wAKNdg4P91zcA7pcr/view?usp=drive_link"
   },
   {
-    title: "(AUDIO-LIBRO) El alquimista",
+    title: "(Audio-libro) El Alquimista",
     author: "Paulo Coelho",
+    pdf: "N/A",
     audio: "https://drive.google.com/file/d/1SSzRXyPq9Y7fsUYT7P6gWxRmaBPNrNvC/view?usp=drive_link"
   },
   {
-    title: "(AUDIO-LIBRO) Piense y hagase rico",
+    title: "(Audio-libro) Piense y hágase rico",
     author: "Napoleon Hill",
+    pdf: "N/A",
     audio: "https://drive.google.com/file/d/1DPqNIv_r099l22KaO-ycdlBhRDE7Zzgj/view?usp=drive_link"
   },
   {
-    title: "(AUDIO-LIBRO) Tus zonas erroneas",
-    author: "Wayne",
+    title: "(Audio-libro) Tus zonas erróneas",
+    author: "Wayne Dyer",
+    pdf: "N/A",
     audio: "https://drive.google.com/file/d/1ntvaNgwQxuktBROnxjqyS8BboM4zkCXY/view?usp=drive_link"
   },
   {
-    title: "(AUDIO-LIBRO) El club de las 5 de la mañana",
+    title: "(Audio-libro) El club de las 5 de la mañana",
     author: "Robin Sharma",
+    pdf: "N/A",
     audio: "https://drive.google.com/file/d/19-1DyUITpcJ5vyHzRd7iNiipG14U2ybj/view?usp=drive_link"
   },
   {
-    title:  "(AUDIO-LIBRO) El hombre en busca del sentido",
-    author: "Viktor Frank",
+    title: "(Audio-libro) El hombre en busca de sentido",
+    author: "Viktor Frankl",
+    pdf: "N/A",
     audio: "https://drive.google.com/file/d/1rvLLq_koPzOqFU7N3FFyR_MLbh8vFIrc/view?usp=drive_link"
   },
   {
-    title: "(AUDIO-LIBRO) Pequeño cerdo capitalista",
-    author: "Sofia Maciasl",
+    title: "(Audio-libro) Pequeño cerdo capitalista",
+    author: "Sofía Macías",
+    pdf: "N/A",
     audio: "https://drive.google.com/file/d/13-AbYb5boLXPKeP2onMM0DCI1OrtCx50/view?usp=drive_link"
   },
   {
-    title: "(AUDIO-LIBRO) Como ganar amigos e influir",
+    title: "(Audio-libro) Cómo ganar amigos e influir sobre las personas",
     author: "Dale Carnegie",
+    pdf: "N/A",
     audio: "https://drive.google.com/file/d/1hP9UPdqi-mTtns0bgCl_97X1kuhcjecY/view?usp=drive_link"
   }
-  ];
+];
